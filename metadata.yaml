@@ -1,5 +1,5 @@
 _repo: Sammtliche-Werke-5-Dramatische-Werke_55487
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Ritter, Carl
@@ -21,6 +21,9 @@ contributor:
     alias: Villard, Andre
     gutenberg_agent_id: '48368'
     url: http://www.gutenberg.org/2009/agents/48368
+covers:
+- cover_type: archival
+  image_path: 55487-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Gogol, Nikolai Vasilevich
@@ -39,6 +42,8 @@ creator:
     gutenberg_agent_id: '45416'
     url: http://www.gutenberg.org/2009/agents/45416
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55487#Sammtliche-Werke-5-Dramatische-Werke
 gutenberg_issued: '2017-09-05'
 gutenberg_type: Text
 identifiers:
