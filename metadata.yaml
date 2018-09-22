@@ -1,0 +1,56 @@
+_repo: Sammtliche-Werke-5-Dramatische-Werke_55487
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Ritter, Carl
+    gutenberg_agent_id: '48367'
+    url: http://www.gutenberg.org/2009/agents/48367
+  - agent_name: Itelson, Gregorius
+    gutenberg_agent_id: '48369'
+    url: http://www.gutenberg.org/2009/agents/48369
+  - agent_name: Commichau, Thomas
+    gutenberg_agent_id: '48366'
+    url: http://www.gutenberg.org/2009/agents/48366
+  - agent_name: Ramm, Alexandra
+    aliases:
+    - Ramm-Pfemfert, Alexandra
+    - Pfemfert, Alexandra Ramm
+    gutenberg_agent_id: '48157'
+    url: http://www.gutenberg.org/2009/agents/48157
+  - agent_name: Villard, André
+    alias: Villard, Andre
+    gutenberg_agent_id: '48368'
+    url: http://www.gutenberg.org/2009/agents/48368
+creator:
+  author:
+    agent_name: Gogol, Nikolai Vasilevich
+    aliases:
+    - Gogol, Nikolaj
+    - Гоголь, Николай Васильевич
+    - Gogol, Nikolay Vasilyevich
+    birthdate: 1809
+    deathdate: 1852
+    gutenberg_agent_id: '531'
+    url: http://www.gutenberg.org/2009/agents/531
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
+  editor:
+    agent_name: Buek, Otto
+    birthdate: 1873
+    gutenberg_agent_id: '45416'
+    url: http://www.gutenberg.org/2009/agents/45416
+description: ''
+gutenberg_issued: '2017-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55487'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russian drama -- Translations into German'
+- GITenberg
+tableOfContents: Der Revisor -- Eine Heiratsgeschichte -- Die Spieler -- Fragmente.
+title: 'Sämmtliche Werke 5: Dramatische Werke'
+url: http://www.gutenberg.org/ebooks/55487
